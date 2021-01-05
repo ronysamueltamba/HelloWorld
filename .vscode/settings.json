@@ -1,0 +1,13 @@
+{
+  "workbench.iconTheme": "vscode-icons",
+  "git.enableSmartCommit": true,
+  "git.autofetch": true,
+  "go.useLanguageServer": true,
+  "python.terminal.executeInFileDir": true,
+  "python.linting.pylintEnabled": true,
+  "python.linting.enabled": false,
+  "python.linting.pylintPath":"C\\venv\\Scripts\\pylint.exe"
+  //"[jsonc]": {
+    //  "editor.defaultFormatter": "Wscats.eno"
+  //}
+}

@@ -1,0 +1,34 @@
+1. Apa itu Python? apa keuntungan menggunakan Python? 
+    - Python adalah: Python adalah salah satu bahasa pemrograman yang dapat melakukan eksekusi sejumlah instruksi
+        multi guna secara langsung (interpretatif) dengan metode orientasi objek (Object Oriented Programming)
+        serta menggunakan semantik dinamis untuk memberikan tingkat keterbacaan syntax. Sebagian lain mengartikan
+        Python sebagai bahasa yang kemampuan, menggabungkan kapabilitas, dan sintaksis kode yang sangat jelas,
+        dan juga dilengkapi dengan fungsionalitas pustaka standar yang besar serta komprehensif.
+        Walaupun Python tergolong bahasa pemrograman dengan level tinggi, nyatanya Python dirancang sedemikian
+        rupa agar mudah dipelajari dan dipahami.
+
+    - Benefit menggunakan Python:   1. Adanya Third-Party module (PyPi)
+                                    2. Open Source
+                                    3. Mendukung IoT
+                                    4. Fleksibel di berbagam OS dan dalam pembuatan aplikasi
+
+3. Apa itu PEP 8?
+    PEP 8, terkadang dieja PEP8 atau PEP-8, adalah dokumen yang memberikan panduan dan praktik terbaik tentang cara menulis
+    kode Python. Itu ditulis pada tahun 2001 oleh Guido van Rossum, Barry Warsawa, dan Nick Coghlan. Fokus utama PEP 8 adalah
+    untuk meningkatkan keterbacaan dan konsistensi kode Python.
+
+    PEP adalah singkatan dari Python Enhancement Proposal, dan ada beberapa di antaranya. PEP adalah dokumen yang menjelaskan
+    fitur baru yang diusulkan untuk Python dan mendokumentasikan aspek Python, seperti desain dan gaya, untuk komunitas.
+
+    Tutorial ini menguraikan pedoman utama yang diuraikan dalam PEP 8. Ini ditujukan untuk programmer pemula hingga menengah,
+    dan karena itu saya belum membahas beberapa topik yang paling maju. Anda dapat mempelajarinya dengan membaca dokumentasi
+    PEP 8 lengkap.
+
+2. Perbedaan compiler dengan interpreter?
+    - Compiler: compiler menerjemahkan seluruh source code menjadi machine codes dalam sekali proses kompilasi.
+                Machine codes yang dihasilkan adalah berupa executable file (contoh: program.exe). Kemudian kita dapat
+                menjalankan program yang telah kita buat dengan menggunakan executable file tersebut.
+    - Interpreter: interpreter juga menerjemahkan source code menjadi machine codes. Hanya saja,
+                    interpreter akan menjalankan program secara langsung dari source code yang dibuat. 
+                    Source code akan diterjemahkan baris per baris menjadi machine codes dan langsung
+                    dieksekusi pada saat itu juga. Tidak terdapat executable file yang dihasilkan selama proses interpretasi.
